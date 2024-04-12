@@ -2,7 +2,7 @@ aiohttp==3.7.4.post0
 async-timeout==3.0.1
 attrs==21.2.0
 chardet==4.0.0
-idna==3.2
+idna==3.7
 iniconfig==1.1.1
 multidict==5.1.0
 packaging==21.0
